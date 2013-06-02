@@ -1,10 +1,10 @@
-## Application Name
+### Application Name
   邮件发布系统
 
-## Description
+### Description
   此系统主要功能是通过Email方式发送如工资单等各类单据，并可定制相关报表。
 
-## Install & Deployment Guide
+### Install & Deployment Guide
   如果是重新部署，则需要制定安装包；
 
   如果是升级，请注意：
